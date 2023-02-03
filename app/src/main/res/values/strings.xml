@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="hello_there">Hello , There</string>
+    <string name="my_test_question">My test question</string>
+</resources>
