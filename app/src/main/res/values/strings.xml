@@ -2,4 +2,12 @@
     <string name="app_name">TrueCitizenQuiz</string>
     <string name="hello_there">Hello , There</string>
     <string name="my_test_question">My test question</string>
+    <string name="question_decleartion">Question Decleartion</string>
+    <string name="question_declaration">What country has the highest life expectancy?</string>
+    <string name="true_">true</string>
+    <string name="false_">False</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="enter_your_guess">Enter your Guess</string>
+    <string name="guess_the_name">Guess the Name</string>
 </resources>
